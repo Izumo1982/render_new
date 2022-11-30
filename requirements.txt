@@ -1,5 +1,2 @@
 Flask
 Gunicorn
-pandas
-plotly
-openpyxl
